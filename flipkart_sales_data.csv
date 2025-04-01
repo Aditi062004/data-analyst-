@@ -1,0 +1,101 @@
+Order ID,Product Name,Category,Price,Discount,Quantity,Total Sales,Order Date,Customer Region,Payment Mode,Return Status
+1,Washing Machine,Home Appliances,27949,16,5,117385.8,45427,Bangalore,Cash on Delivery,Returned
+2,Laptop,Electronics,14459,25,4,43377,45407,Bangalore,Debit Card,Not Returned
+3,Laptop,Electronics,22308,27,3,48854.52,45527,Chennai,Credit Card,Returned
+4,Non-Fiction Book,Books,31772,10,3,85784.4,45463,Mumbai,Cash on Delivery,Returned
+5,Microwave,Home Appliances,34288,18,4,112464.64,45670,Chennai,Credit Card,Not Returned
+6,Jeans,Clothing,4589,20,3,11013.6,45572,Kolkata,UPI,Returned
+7,Slippers,Footwear,47424,20,3,113817.6,45409,Bangalore,Credit Card,Returned
+8,Headphones,Electronics,18451,20,4,59043.2,45558,Delhi,Debit Card,Returned
+9,Smartwatch,Electronics,25258,28,2,36371.52,45631,Mumbai,Cash on Delivery,Not Returned
+10,Vacuum Cleaner,Home Appliances,3645,14,1,3134.7,45390,Delhi,Debit Card,Not Returned
+11,Smartphone,Electronics,48623,16,3,122529.96,45544,Bangalore,Cash on Delivery,Returned
+12,Headphones,Electronics,3147,5,4,11958.6,45687,Bangalore,Net Banking,Not Returned
+13,Sandals,Footwear,42858,26,5,158574.6,45538,Bangalore,Debit Card,Not Returned
+14,Jacket,Clothing,43502,24,4,132246.08,45432,Bangalore,Cash on Delivery,Not Returned
+15,Air Conditioner,Home Appliances,3734,19,5,15122.7,45733,Delhi,UPI,Not Returned
+16,Microwave,Home Appliances,24620,20,1,19696,45480,Chennai,Net Banking,Returned
+17,Refrigerator,Home Appliances,49332,29,3,105077.16,45686,Bangalore,Debit Card,Returned
+18,Tablet,Electronics,4717,19,4,15283.08,45574,Delhi,Net Banking,Not Returned
+19,Sandals,Footwear,36608,25,2,54912,45717,Kolkata,Net Banking,Not Returned
+20,Refrigerator,Home Appliances,4060,29,2,5765.2,45425,Mumbai,Debit Card,Returned
+21,Formal Shoes,Footwear,42917,15,3,109438.35,45721,Kolkata,Net Banking,Returned
+22,Jeans,Clothing,41841,5,3,119246.85,45740,Kolkata,UPI,Not Returned
+23,Washing Machine,Home Appliances,1444,19,2,2339.28,45510,Bangalore,UPI,Not Returned
+24,Sneakers,Footwear,39605,14,2,68120.6,45384,Kolkata,Cash on Delivery,Not Returned
+25,Jacket,Clothing,9483,8,5,43621.8,45716,Delhi,UPI,Not Returned
+26,Jeans,Clothing,7097,11,5,31581.65,45564,Mumbai,Net Banking,Returned
+27,Magazine,Books,45604,13,4,158701.92,45576,Chennai,Cash on Delivery,Returned
+28,Jeans,Clothing,26465,22,2,41285.4,45445,Delhi,Cash on Delivery,Returned
+29,Smartphone,Electronics,28503,6,1,26792.82,45431,Delhi,Net Banking,Returned
+30,Air Conditioner,Home Appliances,40582,27,2,59249.72,45421,Kolkata,Net Banking,Not Returned
+31,Tablet,Electronics,4058,5,1,3855.1,45503,Kolkata,Cash on Delivery,Not Returned
+32,Air Conditioner,Home Appliances,33718,5,1,32032.1,45571,Chennai,UPI,Returned
+33,Sneakers,Footwear,33158,23,5,127658.3,45421,Bangalore,Cash on Delivery,Not Returned
+34,Smartwatch,Electronics,33198,16,1,27886.32,45653,Kolkata,Net Banking,Not Returned
+35,Laptop,Electronics,42059,9,2,76547.38,45684,Kolkata,Credit Card,Not Returned
+36,Microwave,Home Appliances,30278,14,5,130195.4,45744,Chennai,Credit Card,Not Returned
+37,Slippers,Footwear,2764,22,3,6467.76,45550,Bangalore,Credit Card,Returned
+38,Sneakers,Footwear,37352,21,5,147540.4,45711,Kolkata,Debit Card,Not Returned
+39,Headphones,Electronics,31786,19,3,77239.98,45707,Delhi,Credit Card,Returned
+40,Biography,Books,38345,21,5,151462.75,45679,Kolkata,Net Banking,Not Returned
+41,Headphones,Electronics,14419,15,3,36768.45,45548,Bangalore,Credit Card,Returned
+42,Non-Fiction Book,Books,43139,15,5,183340.75,45717,Delhi,Credit Card,Not Returned
+43,Refrigerator,Home Appliances,8513,6,4,32008.88,45426,Mumbai,Debit Card,Returned
+44,Comics,Books,27779,5,1,26390.05,45655,Mumbai,Cash on Delivery,Not Returned
+45,Jeans,Clothing,21095,9,2,38392.9,45630,Chennai,UPI,Not Returned
+46,Comics,Books,36221,24,4,110111.84,45717,Kolkata,Net Banking,Returned
+47,Washing Machine,Home Appliances,43307,5,1,41141.65,45623,Delhi,Debit Card,Returned
+48,Comics,Books,38596,24,4,117331.84,45705,Kolkata,Cash on Delivery,Returned
+49,Smartwatch,Electronics,4383,12,5,19285.2,45724,Kolkata,UPI,Returned
+50,Comics,Books,36140,6,3,101914.8,45603,Bangalore,Credit Card,Not Returned
+51,Microwave,Home Appliances,38542,29,5,136824.1,45670,Bangalore,Cash on Delivery,Not Returned
+52,Tablet,Electronics,41568,30,5,145488,45732,Delhi,Credit Card,Not Returned
+53,Laptop,Electronics,6298,5,2,11966.2,45715,Kolkata,Debit Card,Not Returned
+54,Air Conditioner,Home Appliances,29566,23,2,45531.64,45405,Kolkata,Debit Card,Not Returned
+55,Smartphone,Electronics,25812,17,4,85695.84,45599,Delhi,Credit Card,Returned
+56,Jacket,Clothing,6612,25,5,24795,45596,Kolkata,Credit Card,Returned
+57,Magazine,Books,40540,28,5,145944,45412,Kolkata,Cash on Delivery,Returned
+58,Boots,Footwear,23111,5,3,65866.35,45614,Kolkata,Credit Card,Returned
+59,Biography,Books,24244,30,4,67883.2,45606,Mumbai,Net Banking,Returned
+60,Headphones,Electronics,19421,25,1,14565.75,45666,Mumbai,Cash on Delivery,Returned
+61,Sneakers,Footwear,40543,27,3,88789.17,45441,Mumbai,UPI,Returned
+62,Sandals,Footwear,23462,10,4,84463.2,45563,Kolkata,UPI,Not Returned
+63,Refrigerator,Home Appliances,29651,5,1,28168.45,45734,Mumbai,UPI,Not Returned
+64,Non-Fiction Book,Books,41026,12,3,108308.64,45505,Kolkata,Net Banking,Returned
+65,Fiction Book,Books,48122,18,2,78920.08,45475,Mumbai,Cash on Delivery,Not Returned
+66,Tablet,Electronics,578,5,4,2196.4,45416,Bangalore,Credit Card,Not Returned
+67,Formal Shoes,Footwear,24227,22,1,18897.06,45700,Chennai,UPI,Not Returned
+68,Refrigerator,Home Appliances,5330,6,4,20040.8,45451,Bangalore,Debit Card,Returned
+69,Formal Shoes,Footwear,49589,23,1,38183.53,45478,Kolkata,UPI,Not Returned
+70,Headphones,Electronics,13023,9,4,47403.72,45583,Mumbai,UPI,Not Returned
+71,Magazine,Books,12540,13,2,21819.6,45695,Bangalore,Debit Card,Not Returned
+72,Vacuum Cleaner,Home Appliances,20492,29,1,14549.32,45478,Bangalore,UPI,Not Returned
+73,Sneakers,Footwear,19400,26,5,71780,45405,Chennai,Credit Card,Returned
+74,Washing Machine,Home Appliances,17248,17,5,71579.2,45626,Kolkata,Credit Card,Not Returned
+75,Jacket,Clothing,18833,6,3,53109.06,45430,Mumbai,Cash on Delivery,Not Returned
+76,Smartwatch,Electronics,1385,21,4,4376.6,45538,Chennai,Debit Card,Returned
+77,Formal Shoes,Footwear,21157,26,1,15656.18,45481,Mumbai,Net Banking,Returned
+78,Sweater,Clothing,12840,7,3,35823.6,45429,Mumbai,Cash on Delivery,Not Returned
+79,Boots,Footwear,15911,14,5,68417.3,45736,Bangalore,Net Banking,Returned
+80,Smartwatch,Electronics,11841,17,4,39312.12,45593,Kolkata,Cash on Delivery,Returned
+81,Biography,Books,10044,23,3,23201.64,45470,Mumbai,Credit Card,Not Returned
+82,Laptop,Electronics,35516,30,5,124306,45526,Chennai,Net Banking,Not Returned
+83,Headphones,Electronics,12086,15,5,51365.5,45719,Delhi,Cash on Delivery,Returned
+84,Shirt,Clothing,30495,18,1,25005.9,45736,Chennai,UPI,Returned
+85,Smartphone,Electronics,28190,18,1,23115.8,45522,Delhi,Debit Card,Returned
+86,Smartphone,Electronics,25315,22,2,39491.4,45516,Kolkata,Credit Card,Returned
+87,Laptop,Electronics,31957,10,4,115045.2,45485,Bangalore,Cash on Delivery,Returned
+88,Sandals,Footwear,15785,5,3,44987.25,45579,Chennai,UPI,Returned
+89,Comics,Books,16549,5,1,15721.55,45498,Mumbai,Cash on Delivery,Not Returned
+90,Shirt,Clothing,18935,29,4,53775.4,45403,Bangalore,Cash on Delivery,Not Returned
+91,Slippers,Footwear,12746,10,1,11471.4,45706,Delhi,Credit Card,Returned
+92,Comics,Books,26537,18,4,87041.36,45730,Mumbai,Debit Card,Returned
+93,Smartphone,Electronics,18388,30,3,38614.8,45627,Mumbai,UPI,Returned
+94,Shirt,Clothing,32570,5,5,154707.5,45512,Bangalore,Net Banking,Not Returned
+95,Jacket,Clothing,3330,12,1,2930.4,45742,Delhi,UPI,Not Returned
+96,Comics,Books,14402,8,1,13249.84,45420,Kolkata,UPI,Not Returned
+97,Air Conditioner,Home Appliances,34005,21,1,26863.95,45527,Bangalore,Cash on Delivery,Returned
+98,Comics,Books,25333,26,3,56239.26,45463,Chennai,Debit Card,Not Returned
+99,Slippers,Footwear,49959,30,2,69942.6,45570,Kolkata,Net Banking,Not Returned
+100,Sweater,Clothing,13271,6,1,12474.74,45455,Chennai,UPI,Returned
